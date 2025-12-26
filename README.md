@@ -1,16 +1,18 @@
-## Hi there 👋
+## 👋 Hi, I'm Sohaib
 
-<!--
-**sabuosba20/sabuosba20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student @ Asia Pacific University  
+💻 Aspiring Full-Stack Developer  
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+- Frontend: HTML, CSS, JavaScript, React
+- Backend: Flask, Node.js
+- Database: MongoDB, SQL
+- Other: Git, GitHub, Postman
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Projects
+- Smart Learning Recommender System
+- Task Manager API
+- APU cafe 
+
+### 📫 Contact
+- Email: sohaib@abuosba.com
